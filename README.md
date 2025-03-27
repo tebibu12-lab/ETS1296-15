@@ -14,3 +14,9 @@ The str.index() method in Python returns the index of the first occurrence of a 
 The str.find() method in Python locates the first occurrence of a substring in a string. It returns the index if found, or -1 if not, making it safer than str.index().
 # str.startswith()
 This method in Python is used to check if a string starts with a specified prefix (substring). It returns True if the string begins with the given prefix, and False otherwise.
+# str.count()
+This method counts the number of non-overlapping occurrences of a substring in a string.
+# str.endswith()
+This method checks if a string ends with a specified suffix and returns True or False.
+# str.replace()
+This method replaces all occurrences of a specified substring with another substring.
