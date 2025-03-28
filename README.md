@@ -20,3 +20,9 @@ This method counts the number of non-overlapping occurrences of a substring in a
 This method checks if a string ends with a specified suffix and returns True or False.
 # str.replace()
 This method replaces all occurrences of a specified substring with another substring.
+# str.strip()
+Removes leading and trailing characters (whitespace by default) from the string.
+# str.lstrip()
+Removes leading characters (whitespace by default) from the string.
+# str.rstrip()
+Removes trailing characters (whitespace by default) from the string.
