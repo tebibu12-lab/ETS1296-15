@@ -26,3 +26,9 @@ Removes leading and trailing characters (whitespace by default) from the string.
 Removes leading characters (whitespace by default) from the string.
 # str.rstrip()
 Removes trailing characters (whitespace by default) from the string.
+# str.split()
+This method splits a string into a list of substrings based on a specified delimiter.
+# str.join()
+This method joins elements of a list (or iterable) into a single string, using the string it is called on as a separator.
+# str.isalpha()
+This checks if all characters in a string are alphabetic (letters only). It returns True or False.
