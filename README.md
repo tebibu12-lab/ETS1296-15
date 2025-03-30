@@ -32,3 +32,9 @@ This method splits a string into a list of substrings based on a specified delim
 This method joins elements of a list (or iterable) into a single string, using the string it is called on as a separator.
 # str.isalpha()
 This checks if all characters in a string are alphabetic (letters only). It returns True or False.
+# str.isdigit()
+This checks whether all characters in the string are numeric digits. If they are, it returns True; otherwise, it returns False.
+# str.isspace()
+ checks whether all characters in the string are whitespace characters (like spaces, tabs, or newlines). It returns True if they are; otherwise, it returns False.
+ # str.isalnum()
+ This method checks whether all characters in the string are alphanumeric (letters or numbers, but no spaces or special characters). If they are, it returns True; otherwise, it returns False.
