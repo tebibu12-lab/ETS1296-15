@@ -38,3 +38,9 @@ This checks whether all characters in the string are numeric digits. If they are
  checks whether all characters in the string are whitespace characters (like spaces, tabs, or newlines). It returns True if they are; otherwise, it returns False.
  # str.isalnum()
  This method checks whether all characters in the string are alphanumeric (letters or numbers, but no spaces or special characters). If they are, it returns True; otherwise, it returns False.
+ # str.format()
+ A method to format strings in Python. It allows inserting variables into strings using curly braces {}.
+# f-strings
+Introduced in Python 3.6, these provide a more concise way to format strings. Prefix the string with an f and insert variables or expressions inside curly braces {}.F-strings are generally preferred for their readability and efficiency.
+# len()
+A built-in function that returns the length of an object. For strings, it gives the number of characters.
