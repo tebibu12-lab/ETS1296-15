@@ -44,3 +44,9 @@ This checks whether all characters in the string are numeric digits. If they are
 Introduced in Python 3.6, these provide a more concise way to format strings. Prefix the string with an f and insert variables or expressions inside curly braces {}.F-strings are generally preferred for their readability and efficiency.
 # len()
 A built-in function that returns the length of an object. For strings, it gives the number of characters.
+# str.encode()
+This method is used to encode a string into bytes. By default, it uses UTF-8 encoding unless you specify another encoding. It's useful for preparing strings for tasks like data transmission or storage, where byte representation is required.
+# st.isupper()
+This checks whether all the alphabetic characters in the string are uppercase. Similar to islower(), it returns False for empty strings or strings with non-alphabetic characters.
+# str,islower()
+This checks whether all the alphabetic characters in the string are lowercase. If the string is empty or contains non-alphabetic characters, it still returns False.
